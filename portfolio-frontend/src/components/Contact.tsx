@@ -122,8 +122,8 @@ export function Contact() {
     {
       icon: Mail,
       label: "Email",
-      value: "hk202504@gmial.com",
-      href: "mailto:hk202504@gmial.com",
+      value: "hk202504@gmail.com",
+      href: "mailto:hk202504@gmail.com",
       color: "from-blue-500 to-cyan-500",
     },
     {

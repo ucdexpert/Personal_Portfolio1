@@ -122,7 +122,7 @@ export function Navbar() {
                   <Linkedin size={20} />
                 </motion.a>
                 <motion.a
-                  href="mailto:hk202504@gmial.com"
+                  href="mailto:hk202504@gmail.com"
                   className="p-2 rounded-lg text-gray-600 dark:text-gray-300 hover:bg-gray-50 dark:hover:bg-slate-800 transition-colors"
                   whileHover={{ scale: 1.1 }}
                   whileTap={{ scale: 0.9 }}
@@ -232,7 +232,7 @@ export function Navbar() {
                     <Linkedin size={22} />
                   </motion.a>
                   <motion.a
-                    href="mailto:hk202504@gmial.com"
+                    href="mailto:hk202504@gmail.com"
                     className="p-3 rounded-lg text-gray-600 dark:text-gray-300 hover:bg-gray-50 dark:hover:bg-slate-800 transition-colors"
                     whileHover={{ scale: 1.1 }}
                     whileTap={{ scale: 0.9 }}

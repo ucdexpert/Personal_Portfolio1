@@ -17,7 +17,7 @@ const socialLinks = [
   { icon: Twitter, href: "https://x.com/UzairKhilj60869", label: "X (Twitter)" },
   { icon: Instagram, href: "https://www.instagram.com/uzairkhilji.uzairkhilji/", label: "Instagram" },
   { icon: Facebook, href: "https://www.facebook.com/uzairkhilji.uzairkhilji/", label: "Facebook" },
-  { icon: Mail, href: "mailto:hk202504@gmial.com", label: "Email" },
+  { icon: Mail, href: "mailto:hk202504@gmail.com", label: "Email" },
 ];
 
 export function Footer() {
@@ -84,8 +84,8 @@ export function Footer() {
             <ul className="space-y-2 text-gray-400 text-sm">
               <li>Karachi, Pakistan</li>
               <li>
-                <a href="mailto:hk202504@gmial.com" className="hover:text-white transition-colors">
-                  hk202504@gmial.com
+                <a href="mailto:hk202504@gmail.com" className="hover:text-white transition-colors">
+                  hk202504@gmail.com
                 </a>
               </li>
               <li>

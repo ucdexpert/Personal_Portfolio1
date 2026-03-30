@@ -151,7 +151,7 @@ export function About() {
               <div className="grid grid-cols-2 gap-3 mb-8">
                 {[
                   { label: "Location", value: "Karachi, Pakistan" },
-                  { label: "Email", value: "hk202504@gmial.com" },
+                  { label: "Email", value: "hk202504@gmail.com" },
                   { label: "Experience", value: "5+ Years" },
                   { label: "Availability", value: "Open to Work" },
                 ].map((item) => (
