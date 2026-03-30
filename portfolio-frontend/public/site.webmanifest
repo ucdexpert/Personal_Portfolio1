@@ -1,0 +1,8 @@
+{
+  "name": "Muhammad Uzair Portfolio",
+  "short_name": "Portfolio",
+  "icons": [],
+  "theme_color": "#000000",
+  "background_color": "#ffffff",
+  "display": "standalone"
+}
