@@ -18,8 +18,8 @@ export const projects: Project[] = [
     image: "/projects/ecommerce.png",
     category: "fullstack",
     techStack: ["Next.js", "TypeScript", "Stripe", "PostgreSQL", "Tailwind CSS"],
-    githubUrl: "https://github.com/yourusername/ecommerce-platform",
-    liveUrl: "https://ecommerce-demo.vercel.app",
+    githubUrl: "https://github.com/ucdexpert/e-commerce ",
+    liveUrl: "https://e-commerce-mu-wheat-87.vercel.app/",
   },
   {
     id: 2,
@@ -29,8 +29,8 @@ export const projects: Project[] = [
     image: "/projects/taskapp.png",
     category: "frontend",
     techStack: ["React", "TypeScript", "Framer Motion", "Zustand", "Tailwind CSS"],
-    githubUrl: "https://github.com/yourusername/task-manager",
-    liveUrl: "https://task-manager-demo.vercel.app",
+    githubUrl: "https://github.com/ucdexpert/final-repo-phase-3",
+    liveUrl: "https://auto-task-manager.vercel.app/dashboard ",
   },
   {
     id: 3,
@@ -40,7 +40,7 @@ export const projects: Project[] = [
     image: "/projects/api.png",
     category: "backend",
     techStack: ["Node.js", "Express", "MongoDB", "JWT", "Swagger"],
-    githubUrl: "https://github.com/yourusername/rest-api",
+    githubUrl: "https://github.com/ucdexpert/",
     liveUrl: "https://api-docs-demo.vercel.app",
   },
   {
@@ -51,8 +51,8 @@ export const projects: Project[] = [
     image: "/projects/portfolio.png",
     category: "frontend",
     techStack: ["Next.js", "TypeScript", "Framer Motion", "Tailwind CSS"],
-    githubUrl: "https://github.com/yourusername/portfolio",
-    liveUrl: "https://portfolio-demo.vercel.app",
+    githubUrl: "https://github.com/ucdexpert/Personal_Portfolio1",
+    liveUrl: "https://uzair-portfolio01.vercel.app",
   },
   {
     id: 5,
